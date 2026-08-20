@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prashant-tiwari-sys/Leetcode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prashant-tiwari-sys/Leetcode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prashant-tiwari-sys/Leetcode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
