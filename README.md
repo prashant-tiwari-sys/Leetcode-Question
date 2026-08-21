@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashant-tiwari-sys/Leetcode-Question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prashant-tiwari-sys/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/prashant-tiwari-sys/Leetcode-Question/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -40,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prashant-tiwari-sys/Leetcode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prashant-tiwari-sys/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
